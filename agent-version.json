@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "windows_url": "https://raw.githubusercontent.com/GSS-creator/gss-agent-downloads/main/GSSAgentSetup.exe",
+  "linux_url": "https://raw.githubusercontent.com/GSS-creator/gss-agent-downloads/main/GSSAgent"
+}
