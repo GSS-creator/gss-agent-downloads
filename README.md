@@ -24,6 +24,6 @@ the production GSS backend and protect their local device credentials.
 For direct public downloads after pushing to GitHub, use the repository paths:
 
 ```text
-https://github.com/GSS-creator/network-guardian/raw/main/agent/windows/publish/GSSAgentSetup.exe
-https://github.com/GSS-creator/network-guardian/raw/main/agent/linux/publish/GSSAgent
+https://raw.githubusercontent.com/GSS-creator/gss-agent-downloads/main/GSSAgentSetup.exe
+https://raw.githubusercontent.com/GSS-creator/gss-agent-downloads/main/GSSAgent
 ```
